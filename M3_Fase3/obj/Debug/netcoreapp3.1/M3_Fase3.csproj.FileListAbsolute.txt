@@ -1,0 +1,13 @@
+C:\Users\jruan\source\repos\M3_Fase3\M3_Fase3\bin\Debug\netcoreapp3.1\M3_Fase3.exe
+C:\Users\jruan\source\repos\M3_Fase3\M3_Fase3\bin\Debug\netcoreapp3.1\M3_Fase3.deps.json
+C:\Users\jruan\source\repos\M3_Fase3\M3_Fase3\bin\Debug\netcoreapp3.1\M3_Fase3.runtimeconfig.json
+C:\Users\jruan\source\repos\M3_Fase3\M3_Fase3\bin\Debug\netcoreapp3.1\M3_Fase3.runtimeconfig.dev.json
+C:\Users\jruan\source\repos\M3_Fase3\M3_Fase3\bin\Debug\netcoreapp3.1\M3_Fase3.dll
+C:\Users\jruan\source\repos\M3_Fase3\M3_Fase3\bin\Debug\netcoreapp3.1\M3_Fase3.pdb
+C:\Users\jruan\source\repos\M3_Fase3\M3_Fase3\obj\Debug\netcoreapp3.1\M3_Fase3.csprojAssemblyReference.cache
+C:\Users\jruan\source\repos\M3_Fase3\M3_Fase3\obj\Debug\netcoreapp3.1\M3_Fase3.AssemblyInfoInputs.cache
+C:\Users\jruan\source\repos\M3_Fase3\M3_Fase3\obj\Debug\netcoreapp3.1\M3_Fase3.AssemblyInfo.cs
+C:\Users\jruan\source\repos\M3_Fase3\M3_Fase3\obj\Debug\netcoreapp3.1\M3_Fase3.csproj.CoreCompileInputs.cache
+C:\Users\jruan\source\repos\M3_Fase3\M3_Fase3\obj\Debug\netcoreapp3.1\M3_Fase3.dll
+C:\Users\jruan\source\repos\M3_Fase3\M3_Fase3\obj\Debug\netcoreapp3.1\M3_Fase3.pdb
+C:\Users\jruan\source\repos\M3_Fase3\M3_Fase3\obj\Debug\netcoreapp3.1\M3_Fase3.genruntimeconfig.cache
